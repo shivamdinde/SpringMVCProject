@@ -1,0 +1,16 @@
+127.0.0.1 - - [07/Dec/2023:22:30:50 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Dec/2023:22:30:51 +0530] "GET /SpringMVCProject/WEB-INF/classes/day9/controller/SpringMvcController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [07/Dec/2023:22:30:51 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [07/Dec/2023:22:33:38 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Dec/2023:22:33:39 +0530] "GET /SpringMVCProject/WEB-INF/classes/day9/controller/SpringMvcController.java HTTP/1.1" 404 682
+127.0.0.1 - - [07/Dec/2023:22:34:58 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Dec/2023:22:34:59 +0530] "GET /SpringMVCProject/WEB-INF/classes/day9/controller/SpringMvcController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [07/Dec/2023:22:35:20 +0530] "GET /SpringMVCProject/WEB-INF/pages/index.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [07/Dec/2023:22:35:23 +0530] "GET /SpringMVCProject/WEB-INF/pages/index.jsp HTTP/1.1" 404 682
+127.0.0.1 - - [07/Dec/2023:22:36:44 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Dec/2023:22:36:45 +0530] "GET /SpringMVCProject/WEB-INF/classes/day9/SpringWebMvcConfigurer.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [07/Dec/2023:22:38:40 +0530] "GET /SpringMVCProject//WEB-INF/pages/index.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [07/Dec/2023:22:39:36 +0530] "GET /SpringMVCProject/WEB-INF/pages/index.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [07/Dec/2023:22:39:45 +0530] "GET /SpringMVCProject HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [07/Dec/2023:22:39:46 +0530] "GET /SpringMVCProject/ HTTP/1.1" 200 80
+0:0:0:0:0:0:0:1 - - [07/Dec/2023:22:39:46 +0530] "GET /SpringMVCProject/ HTTP/1.1" 200 80

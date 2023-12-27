@@ -1,0 +1,7 @@
+package day10.controller;
+
+public class SpringMvcController {
+	public String getLoginPage() {
+		return "login";//Returns view name
+	}
+}
